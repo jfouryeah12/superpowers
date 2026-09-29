@@ -9,3 +9,4 @@ triage/
 
 .gitignore
 
+dist/
