@@ -5,5 +5,4 @@
 node_modules/
 inspo
 triage/
-.gitignore
 dist/
